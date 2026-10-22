@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         voxco-session-reconnect
-// @namespace    http://tampermonkey.net/
-// @version      0.0.1
+// @version      0.0.2
 // @description  Restore page
 // @author       loke/kriby5y
 // @match        *://*/voxco.agent/FrameLayout.aspx
