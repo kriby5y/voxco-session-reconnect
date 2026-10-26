@@ -1,5 +1,8 @@
 voxco-session-reconnect
 
+*Note
+Currently is still in a debugging phrase and is not at all reliable.
+
 Features
 Attempts to reconnect and repeat request when encountering disconnect or empty response during session
 
